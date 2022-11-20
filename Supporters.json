@@ -11,4 +11,16 @@
     "Name":"GENERATORGOLD",
     "Color":"#ff7961"
   },
+  {
+    "Logo":"https://i.ibb.co/MN8VsRX/Senza-titolo-249-20220326171653.png",
+    "Address":"http://jelly.pixelsociety.net:2086",
+    "Name":"Jellyfin",
+    "Color":"#ff7961"
+  },
+  {
+    "Logo":"https://i.ibb.co/mJvCBfc/uygtfrdes.png",
+    "Address":"http://app.crazydazn.com",
+    "Name":"CrazyDazn",
+    "Color":"#ff7961"
+  },
 ]
